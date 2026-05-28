@@ -30,7 +30,7 @@ image:
   caption: ''
   focal_point: Right
 
-links:
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""

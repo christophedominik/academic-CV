@@ -43,7 +43,7 @@ image:
   caption: ''
   focal_point: Right
 
-links:
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: "https://drive.google.com/open?id=1CMfcIZXhXyGtcecEe6iXdHLm2FKbfiHi"
