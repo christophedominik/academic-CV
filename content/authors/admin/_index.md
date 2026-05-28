@@ -1,0 +1,97 @@
+---
+# Display name
+title: Christophe Dominik
+
+# Full name (for SEO)
+first_name: Christophe
+last_name: Dominik
+
+# Is this the primary user of the site?
+superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Role/position/tagline
+role: Postdoctoral Researcher
+
+# Organizations/Affiliations to display in Biography block
+organizations:
+  - name: Helmholtz Centre for Environmental Research - UFZ
+    url: https://www.ufz.de/index.php?en=36737
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include landscape ecology, pollination ecology, biological control, and macroecology.
+
+# Interests shown in About block
+interests:
+  - Landscape Ecology
+  - Pollination Ecology
+  - Biological Control
+  - Gut Microbiome
+  - Macroecology
+  - R and data visualization
+
+# Education (new flat-list format — no `courses:` wrapper)
+education:
+  - area: PhD in Natural Sciences
+    institution: Martin Luther University Halle-Wittenberg
+    date_start: 2012-01-01
+    date_end: 2019-01-01
+    summary: |
+      Thesis on landscape ecology of arthropod communities in rice agroecosystems.
+  - area: MSc in Biodiversity and Tropical Ecosystems
+    institution: Université de La Réunion
+    date_start: 2009-09-01
+    date_end: 2011-06-30
+  - area: BSc in Biology of Organisms and Populations
+    institution: Université Henri-Poincaré (UHP Nancy-1)
+    date_start: 2006-09-01
+    date_end: 2009-06-30
+
+# Work experience (shown in About block if you use resume-biography-3)
+work:
+  - position: Postdoctoral Researcher
+    company_name: Helmholtz Centre for Environmental Research - UFZ
+    company_url: https://www.ufz.de
+    date_start: 2019-01-01
+    date_end: ''
+    summary: |
+      Department of Community Ecology (BZF). Investigating how pollinators
+      and the services they provide are influenced by landscape and land-use intensity.
+  - position: PhD Student / Guest Scientist
+    company_name: UFZ - Department of Computational Landscape Ecology
+    company_url: https://www.ufz.de
+    date_start: 2012-01-01
+    date_end: 2019-01-01
+  - position: Guest Scientist
+    company_name: International Rice Research Institute (IRRI)
+    company_url: https://www.irri.org
+    date_start: 2013-09-01
+    date_end: 2014-09-01
+
+# Social/academic profiles (new `profiles:` format — replaces old `social:`)
+profiles:
+  - icon: at-symbol
+    url: 'mailto:christophe.dominik@ufz.de'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/HopperDominik
+    label: Follow on X (Twitter)
+  - icon: academicons/google-scholar
+    url: https://scholar.google.co.uk/citations?user=GII0MqEAAAAJ
+    label: Google Scholar
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4699-2781
+    label: ORCID
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Christophe_Dominik
+    label: ResearchGate
+  - icon: academicons/publons
+    url: https://www.webofscience.com/wos/author/rid/P-2109-2019
+    label: Publons / Web of Science
+---
+
+I am an ecologist looking at patterns of biodiversity and associated ecosystem services at different spatial and temporal scales. As a postdoctoral researcher in the Department of Community Ecology at the [Helmholtz Centre for Environmental Research (UFZ)](https://www.ufz.de/index.php?en=36737), I investigate how pollinators and the services they provide are influenced by landscape and land-use intensity.
+
+My main research interests focus on landscape ecology, macroecology, agro-ecology, pollination services and biological control. I use different approaches and methods to better understand the effects of landscape on communities and ecosystem services, both in temperate (Europe) and tropical regions (South-East Asia).
