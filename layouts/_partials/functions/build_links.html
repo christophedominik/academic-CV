@@ -1,0 +1,55 @@
+{{/*
+  build_links.html — Safe override for Hugo Blox build_links
+  Fixes: $seen.SetInMap nil map panic in blox@v0.0.0-20260527
+*/}}
+{{- $page := .page -}}
+{{- $is_list := .is_list | default 0 -}}
+{{- $links := $page.Params.links | default slice -}}
+{{- $seen := dict -}}
+
+{{- range $links -}}
+  {{- if .url -}}
+    {{- $seen = merge $seen (dict (.name | default "link") true) -}}
+    <a href="{{ .url }}"
+       class="btn btn-outline-primary btn-page-header btn-sm"
+       {{- if strings.HasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>
+      {{- with .icon -}}
+        <i class="{{ . }} mr-1"></i>
+      {{- end -}}
+      {{ .name | default "Link" }}
+    </a>
+  {{- end -}}
+{{- end -}}
+
+{{/* Shorthand URL fields */}}
+{{- with $page.Params.url_pdf -}}
+  {{- if not (index $seen "PDF") -}}
+    <a href="{{ . }}" class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" rel="noopener">
+      <i class="fas fa-file-pdf mr-1"></i>PDF
+    </a>
+  {{- end -}}
+{{- end -}}
+
+{{- with $page.Params.url_code -}}
+  {{- if not (index $seen "Code") -}}
+    <a href="{{ . }}" class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" rel="noopener">
+      <i class="fab fa-github mr-1"></i>Code
+    </a>
+  {{- end -}}
+{{- end -}}
+
+{{- with $page.Params.url_slides -}}
+  {{- if not (index $seen "Slides") -}}
+    <a href="{{ . }}" class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" rel="noopener">
+      <i class="fas fa-chalkboard-teacher mr-1"></i>Slides
+    </a>
+  {{- end -}}
+{{- end -}}
+
+{{- with $page.Params.url_video -}}
+  {{- if not (index $seen "Video") -}}
+    <a href="{{ . }}" class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" rel="noopener">
+      <i class="fas fa-video mr-1"></i>Video
+    </a>
+  {{- end -}}
+{{- end -}}
