@@ -13,9 +13,7 @@ abstract: "Pollen limitation, local resource availability and pollinator communi
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-11-23T16:30:00Z"
-event_start: "2022-11-23T16:30:00Z"
-event_end: "2022-11-23T17:30:00Z"
-
+date_end: "2022-11-23T16:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

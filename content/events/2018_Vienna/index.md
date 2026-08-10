@@ -13,8 +13,7 @@ abstract: "Landscape composition, configuration, and trophic interactions shape 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2018-09-12T16:30:00Z"
-event_start: "2018-09-12T16:30:00Z"
-event_end: "2018-09-12T17:30:00Z"
+date_end: "2018-09-12T16:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

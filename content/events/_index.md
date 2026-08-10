@@ -1,14 +1,8 @@
 ---
 title: Recent & Upcoming Talks
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: compact
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+cms_exclude: true
+view: card
+image:
+  caption: ''
+  filename: ''
 ---

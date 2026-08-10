@@ -13,8 +13,7 @@ abstract: "Effects of landscape structures on rice agroecosystem biodiversity an
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2015-09-03T16:30:00Z"
-event_start: "2015-09-03T16:30:00Z"
-event_end: "2015-09-03T17:30:00Z"
+date_end: "2015-09-03T16:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

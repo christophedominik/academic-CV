@@ -36,6 +36,7 @@ tags:
 
 categories: ""
 
+links: []
 ---
 
 Juan Corley, an Associate Editor of [Journal of Applied Ecology](https://besjournals.onlinelibrary.wiley.com/journal/13652664) has written a blog post promoting our published article *Landscape composition, configuration, and trophic interactions shape arthropod communities in rice agroecosystems*.
