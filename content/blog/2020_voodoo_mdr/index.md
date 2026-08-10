@@ -29,7 +29,7 @@ image:
   preview_only: false
 
 authors:
-- MDR Sachsen
+- admin
 
 tags:
 - VOODOO
