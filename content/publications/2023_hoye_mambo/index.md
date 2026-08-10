@@ -48,7 +48,7 @@ tags:
 - MAMBO
 featured: no
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.3897/rio.9.e116951
    icon: academicons/open-access

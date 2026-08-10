@@ -34,10 +34,10 @@ tags:
 - LEGATO
 featured: false
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.1016/j.agee.2017.06.011
-   icon: ai/closed-access
+   icon: academicons/closed-access
    
  - name: PDF
    url: https://drive.google.com/open?id=1ckP1dc6i4L4oVLPwCFnqWcT2nxP5Xput

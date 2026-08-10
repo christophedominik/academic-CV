@@ -60,7 +60,7 @@ tags:
 - PoshBee
 featured: no
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.1016/j.agee.2025.109518
    icon: academicons/open-access

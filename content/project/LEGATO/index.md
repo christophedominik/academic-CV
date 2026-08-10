@@ -13,7 +13,7 @@ image:
   caption: 
   focal_point: Smart
 
-links: []
+links:
 - icon: twitter
   name: Follow
   url: https://twitter.com/Legato_project

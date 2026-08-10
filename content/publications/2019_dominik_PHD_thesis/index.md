@@ -29,7 +29,7 @@ tags:
 - LEGATO
 featured: false
 
-links: []
+links:
  - name: DOI
    url: http://dx.doi.org/10.25673/13861
    icon: academicons/open-access

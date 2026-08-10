@@ -72,7 +72,7 @@ tags:
 - PoshBee
 featured: false
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.3897/oneeco.6.e63653
    icon: academicons/open-access

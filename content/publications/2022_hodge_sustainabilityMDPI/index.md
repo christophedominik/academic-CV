@@ -75,7 +75,7 @@ tags:
 - PoshBee
 featured: no
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.3390/su141710549
    icon: academicons/open-access

@@ -41,7 +41,7 @@ tags:
 - VOODOO
 featured: no
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.1111/ddi.13853
    icon: academicons/open-access

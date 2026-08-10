@@ -113,10 +113,10 @@ tags:
 - LEGATO
 featured: false
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.1007/s10333-018-0656-9
-   icon: ai/closed-access
+   icon: academicons/closed-access
 
  - name: PDF
    url: https://drive.google.com/open?id=1yWKgBuGqhxMloiIBRDuPAU39F9E8MKrn

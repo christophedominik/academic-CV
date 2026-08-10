@@ -39,7 +39,7 @@ tags:
 - VOODOO
 featured: no
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.1038/s41598-024-64755-5
    icon: academicons/open-access

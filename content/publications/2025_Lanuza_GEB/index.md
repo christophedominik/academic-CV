@@ -146,7 +146,7 @@ tags:
 - Safeguard
 featured: no
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.1111/geb.70000
    icon: academicons/open-access

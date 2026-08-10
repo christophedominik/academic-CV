@@ -33,7 +33,7 @@ tags:
 - LEGATO
 featured: false
 
-links: []
+links:
  - name: DOI
    url: http://dx.doi.org/10.1002/eap.2560
    icon: academicons/open-access
@@ -44,7 +44,7 @@ links: []
    
  - name: Dataset
    url: http://dx.doi.org/10.5061/dryad.pg4f4qrqn
-   icon: ai/open-data
+   icon: academicons/open-data
    
 url_pdf: ''
 url_code: ''

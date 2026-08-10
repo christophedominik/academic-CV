@@ -32,10 +32,10 @@ tags:
 - ECOSAL
 featured: false
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.1080/00063657.2012.715279
-   icon: ai/closed-access
+   icon: academicons/closed-access
    
  - name: PDF
    url: https://drive.google.com/open?id=0Bx3o7ymqHXGiLTBVWmFKOWJydm8

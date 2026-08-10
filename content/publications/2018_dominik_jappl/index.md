@@ -33,7 +33,7 @@ tags:
 - LEGATO
 featured: false
 
-links: []
+links:
  - name: DOI
    url: https://doi.org/10.1111/1365-2664.13226
    icon: academicons/open-access
@@ -44,7 +44,7 @@ links: []
    
  - name: Dataset
    url: https://doi.org/10.5061/dryad.6mv5372
-   icon: ai/open-data
+   icon: academicons/open-data
    
 url_pdf: 
 url_code: ''
