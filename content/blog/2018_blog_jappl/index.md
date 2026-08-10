@@ -29,12 +29,11 @@ image:
   preview_only: false
 
 authors:
-- The applied ecologist's blog
+  - admin
 
 tags:
 - LEGATO
 
-categories: ""
 
 links: []
 ---

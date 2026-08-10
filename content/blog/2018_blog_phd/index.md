@@ -34,7 +34,6 @@ authors:
 tags:
 - LEGATO
 
-categories: ""
 
 links: []
 ---
@@ -114,7 +113,6 @@ each sampling site using heads-up digitizing in a geographic information system
 [(ArcGIS 10.3, ESRI)](https://www.arcgis.com/index.html) based on high resolution SPOT-5 DIMAP images (2.5 m). In addition, I collected ground-truth data to verify the photointerpretation using [Collector for ArcGIS (version 9.3, ESRI)](http://www.esri.com/products/collector-for-arcgis). I randomly attributed
 10 ground-truth locations, verified the land cover in the
 field and if necessary corrected the digitized maps. Landscape features were classified into eight final
-categories: rice bunds, rice fields, plantations, artificial areas, bare soil/grasslands,
 woodlands, hydrographic network and ponds. Finally, landscape metrics were calculated at different levels to describe single landscape
 elements such as the size or shape of patches, or for whole landscapes by describing
 the arrangement of patches and composition of the landscape. 

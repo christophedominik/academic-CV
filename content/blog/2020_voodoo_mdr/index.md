@@ -34,7 +34,6 @@ authors:
 tags:
 - VOODOO
 
-categories: ""
 
 links: []
 ---
