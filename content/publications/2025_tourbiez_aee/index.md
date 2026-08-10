@@ -44,7 +44,8 @@ publishDate: "2025-02-15T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types:
+  - "article-journal"
 
 # Publication name and optional abbreviated publication name.
 publication: "*Agriculture, Ecosystems & Environment*"
@@ -59,16 +60,14 @@ tags:
 - PoshBee
 featured: no
 
-links:
+links: []
  - name: DOI
    url: https://doi.org/10.1016/j.agee.2025.109518
-   icon_pack: ai
-   icon: open-access
+   icon: academicons/open-access
    
  - name: PDF
    url: https://drive.google.com/file/d/1xDDV2ChgPHHxk1-gVK-4E9GiJlMPOyO5/view?usp=drive_link
-   icon_pack: fas
-   icon: file-pdf
+   icon: hero/document
 
 url_pdf: ''
 url_code: ''

@@ -25,7 +25,8 @@ publishDate: "2024-05-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types:
+  - "article-journal"
 
 # Publication name and optional abbreviated publication name.
 publication: "*Diversity and Distributions*"
@@ -40,16 +41,14 @@ tags:
 - VOODOO
 featured: no
 
-links:
+links: []
  - name: DOI
    url: https://doi.org/10.1111/ddi.13853
-   icon_pack: ai
-   icon: open-access
+   icon: academicons/open-access
 
  - name: PDF
    url: https://drive.google.com/file/d/1pc-xBn5M7oJNdHdfPZhK5vVM1rGk5oj0/view?usp=drive_link
-   icon_pack: fas
-   icon: file-pdf
+   icon: hero/document
    
 url_pdf: ''
 url_code: ''

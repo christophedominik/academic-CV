@@ -45,7 +45,8 @@ publishDate: "2023-05-05T00:12:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types:
+  - "article-journal"
 
 # Publication name and optional abbreviated publication name.
 publication: "*Frontiers in Ecology and Evolution*"
@@ -66,16 +67,14 @@ tags:
 - PoshBee
 featured: no
 
-links:
+links: []
  - name: DOI
    url: https://doi.org/10.3389/fevo.2023.1128228
-   icon_pack: ai
-   icon: open-access
+   icon: academicons/open-access
    
  - name: PDF
    url: https://drive.google.com/file/d/1175zBH_IFhJsvirIHo5kN9OMlegHoJnd/view?usp=share_link
-   icon_pack: fas
-   icon: file-pdf
+   icon: hero/document
 
 url_pdf: ''
 url_code: ''

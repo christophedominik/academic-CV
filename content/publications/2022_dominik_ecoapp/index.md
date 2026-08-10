@@ -17,7 +17,8 @@ publishDate: "2022-02-03T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types:
+  - "article-journal"
 
 # Publication name and optional abbreviated publication name.
 publication: "*Ecological Applications*"
@@ -32,21 +33,18 @@ tags:
 - LEGATO
 featured: false
 
-links:
+links: []
  - name: DOI
    url: http://dx.doi.org/10.1002/eap.2560
-   icon_pack: ai
-   icon: open-access
+   icon: academicons/open-access
 
  - name: PDF
    url: https://drive.google.com/file/d/1qNb0Lsep9lmi571PQZOMGBMw2fAkpWvQ/view?usp=sharing
-   icon_pack: fas
-   icon: file-pdf
+   icon: hero/document
    
  - name: Dataset
    url: http://dx.doi.org/10.5061/dryad.pg4f4qrqn
-   icon_pack: ai
-   icon: open-data
+   icon: ai/open-data
    
 url_pdf: ''
 url_code: ''

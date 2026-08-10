@@ -17,7 +17,8 @@ publishDate: "2018-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types:
+  - "article-journal"
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Applied Ecology*"
@@ -32,21 +33,18 @@ tags:
 - LEGATO
 featured: false
 
-links:
+links: []
  - name: DOI
    url: https://doi.org/10.1111/1365-2664.13226
-   icon_pack: ai
-   icon: open-access
+   icon: academicons/open-access
    
  - name: PDF
    url: https://drive.google.com/open?id=12IQrzhDpbmnT2aNFLtJc9yBn3avBCkJg
-   icon_pack: fas
-   icon: file-pdf
+   icon: hero/document
    
  - name: Dataset
    url: https://doi.org/10.5061/dryad.6mv5372
-   icon_pack: ai
-   icon: open-data
+   icon: ai/open-data
    
 url_pdf: 
 url_code: ''
