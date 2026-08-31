@@ -1,51 +1,34 @@
 ---
-title: "Sustainable Land Management 2013"
-
-event: "Sustainable Land Management status conference"
-event_url: "https://www.fona.de/en/sustainable-land-management-19763.html"
-
+title: Sustainable Land Management 2013
+event_url: https://www.fona.de/en/sustainable-land-management-19763.html
 location: Berlin, Germany
-address:
-
-summary: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines"
-abstract: "Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines"
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2013-04-18T11:00:00Z"
-date_end: "2013-04-18T12:30:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: [admin, "Ralf Seppelt", "Finbarr G. Horgan", "Josef Settele", "Tomáš Václavík"]
-tags: [LEGATO]
-
-# Is this a featured talk? (true/false)
+address: null
+summary: Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines
+abstract: Effects of landscape structures on rice agroecosystem biodiversity and biological control across the Philippines
+date: 2017-01-01T00:00:00Z
+authors:
+  - admin
+  - Ralf Seppelt
+  - Finbarr G. Horgan
+  - Josef Settele
+  - Tomáš Václavík
+tags:
+  - LEGATO
 featured: false
-
 image:
-  caption: ''
+  caption: ""
   focal_point: Right
-
 links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: [LEGATO]
+projects:
+  - LEGATO
+event_start: 2013-04-18T11:00:00Z
+event_end: 2013-04-18T12:30:00Z
+event_all_day: false
+event_name: Sustainable Land Management status conference
 ---
+
